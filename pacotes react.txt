@@ -1,0 +1,7 @@
+yarn add style-loader css-loader -D
+yarn add webpack-dev-server -D
+yarn add react-scripts
+yarn add @babel/core @babel/cli @babel/preset-env -D
+yarn add @babel/preset-react -D
+yarn add webpack webpack-cli webpack-dev-server -D
+yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
